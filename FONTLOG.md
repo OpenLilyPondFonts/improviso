@@ -1,12 +1,17 @@
 FONTLOG for the Improviso font
 ==============================
 
-This file provides detailed information on the Improviso Font Software. This information should be distributed along with the Improviso fonts and any derivative works.
+This file provides detailed information on the Improviso Font Software. This information should
+be distributed along with the Improviso fonts and any derivative works.
 
 
 Basic font information
 ----------------------
-Improviso is a typeface designed by Abraham Lee to resemble the style of traditional hand copyists. This font software is not designed for use in a word-processing application, although all the glyphs may be accessed at their respective Unicode points. It was originally designed for use with GNU LilyPond, the automatic music engraver.
+
+Improviso is a typeface designed by Abraham Lee to resemble the style of traditional hand
+copyists. This font software is not designed for use in a word-processing application, although
+all the glyphs may be accessed at their respective Unicode points. It was originally designed
+for use with GNU LilyPond, the automatic music engraver.
 
 More information about LilyPond can be found at:
 
